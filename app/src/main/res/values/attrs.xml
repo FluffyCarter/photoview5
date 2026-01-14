@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myBackground" format="color|reference" />
+    <attr name="mySurface" format="color|reference" />
+    <attr name="myOnBackground" format="color|reference" />
+    <attr name="myOnSurface" format="color|reference" />
+</resources>
